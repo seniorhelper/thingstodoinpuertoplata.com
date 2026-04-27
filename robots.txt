@@ -1,0 +1,29 @@
+User-agent: *
+Allow: /
+
+# AI & LLM crawlers — explicitly welcome
+User-agent: GPTBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+# Sitemap
+Sitemap: https://www.thingstodoinpuertoplata.com/sitemap.xml
+
+# Last updated: 2026-04-27
