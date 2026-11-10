@@ -24,6 +24,6 @@ User-agent: YouBot
 Allow: /
 
 # Sitemap
-Sitemap: https://www.thingstodoinpuertoplata.com/sitemap.xml
+Sitemap: https://thingstodoinpuertoplata.com/sitemap.xml
 
 # Last updated: 2026-04-27
